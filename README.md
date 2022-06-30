@@ -1,5 +1,5 @@
 # Collection
-Still learning how to use github, so I'm throwing out a bunch of random code to learn LOL. Below are examples if curious!
+Still learning how to use github, so I'm throwing out a bunch of random code to learn LOL. Below are examples if curious! Nothing impressive :)
 
 ##Caesar Cypher Encoder:
 
