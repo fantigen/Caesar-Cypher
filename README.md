@@ -7,6 +7,7 @@ Still learning how to use github, so I'm throwing out a bunch of random code LOL
 
 ## Walmart Wordle:
 ![image](https://user-images.githubusercontent.com/75642696/176653837-024784b6-e7ce-4af9-abaa-900a58ebecef.png)
+Uses both wordleMain and wordleList
 
 ## Slow Printer
 ![SP Example GIF](https://user-images.githubusercontent.com/75642696/176656597-ad14d4a9-5296-4f88-9022-4eebf8d2a808.gif)
