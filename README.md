@@ -1,6 +1,5 @@
 # Collection
-I'm still learning how to use github, so I'm throwing a bunch of random code in here to learn LOL. 
-The collection contains a Caesar Cypher Encoder, ripoff Wordle, and a program that prints things in a weird way.
+I'm still learning how to use github, so I'm throwing a bunch of random code in here to learn LOL. Below are examples if curious!
 
 ##Caesar Cypher Encoder:
 
