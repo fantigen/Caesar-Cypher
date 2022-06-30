@@ -1,3 +1,5 @@
+#encodes user input into chosen displacement according to the Caesar Cypher
+
 oString = str(input("Enter sentence: "))
 diff = int(input("Enter difference: "))
 
